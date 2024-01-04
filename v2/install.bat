@@ -1,4 +1,4 @@
 @echo off
-pip install -r requirements.bypass
+pip install -r requirements.txt
 echo Done.
 pause
